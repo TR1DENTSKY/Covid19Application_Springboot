@@ -18,6 +18,8 @@ and Patient User login Information.
 
 Using the IDE of your choice clone or download a copy of this repository.
 
+IMPORTANT! Change username and password with the application.properties in accordance with your SQL login. 
+
 Run the application.
 
 Open Postman.
