@@ -32,7 +32,7 @@ Once opened, import the given link:
 
 https://www.getpostman.com/collections/18ff7e39ceb3ec5c2c3a
 
-Run the API
+CLICK RUN
 
 After successfully running the API, you can proceed to use Postman as a front-end app to use basic CRUD operations of the application. This is to make entering the functions a little bit easier than using normal back end API testing. 
 
