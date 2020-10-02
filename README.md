@@ -14,6 +14,12 @@ Hospitals that patient have been admitted to,
 
 and Patient User login Information.
 
+# Tools:
+
+- Intellij Community IDE
+
+- Postman Version 7.33.1
+
 # How to:
 
 Using the IDE of your choice clone or download a copy of this repository.
