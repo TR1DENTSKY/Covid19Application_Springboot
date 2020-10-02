@@ -43,3 +43,6 @@ CLICK RUN
 After successfully running the API, you can work things like on the front end side. Open the any folder and you can see all CRUD options given to you.  
 
 I hope you enjoy testing this API.
+
+![](covid19_restfulapi_demo.gif)
+
