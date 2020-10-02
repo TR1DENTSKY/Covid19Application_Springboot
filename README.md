@@ -2,7 +2,7 @@
 
 With this application an administrator can access covid patient’s information. 
 
-Using postman to apply basic CRUD (Create, Read, Update, Delete) functions of:
+Using postman to apply basic CRUD (Create, Read, Update, Delete) functions:
 
 Test Records of each Patient,
 
